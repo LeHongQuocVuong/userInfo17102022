@@ -1,4 +1,4 @@
-package com.example.userinfo
+package com.example.userinfo.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

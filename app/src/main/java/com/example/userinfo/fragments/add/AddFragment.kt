@@ -10,8 +10,8 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.example.userinfo.R
-import com.example.userinfo.data.User
-import com.example.userinfo.data.UserViewModel
+import com.example.userinfo.model.User
+import com.example.userinfo.viewmodel.UserViewModel
 import com.example.userinfo.databinding.FragmentAddBinding
 
 
